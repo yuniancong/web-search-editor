@@ -15,7 +15,7 @@
 ### 1. 启动服务（查看配置：vim ~/.oh-my-zsh/plugins/web-search/web-search.plugin.zsh）
 
 ```bash
-cd /Users/yuniancong/Desktop/Codex/claude
+cd /Users/web-search-editor
 python3 web-search-editor.py
 ```
 
