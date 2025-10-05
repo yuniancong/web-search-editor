@@ -23,7 +23,7 @@ python3 web-search-editor.py
 
 ```
 🚀 Web Search 插件编辑器启动中...
-📁 配置文件: /Users/yuniancong/.oh-my-zsh/plugins/web-search/web-search.plugin.zsh
+📁 配置文件: /Users/username/.oh-my-zsh/plugins/web-search/web-search.plugin.zsh
 🌐 服务地址: http://localhost:8080
 ⌨️  按 Ctrl+C 停止服务
 ```
